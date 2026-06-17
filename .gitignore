@@ -1,0 +1,4 @@
+ncbi_analysis/
+sra_ids.txt
+.snakemake/
+
